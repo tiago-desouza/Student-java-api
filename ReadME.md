@@ -56,6 +56,9 @@ Alexandre	21	B	5
 
 #### 🧔 Informação:
 Autor: Tiago Souza
+
 LinkedIn: (<https://www.linkedin.com/in/tiago-dessouza/>)
+
 Github: (<https://github.com/tiago-desouza>)
+
 E-mail: tiago-desouza@outlook.com
